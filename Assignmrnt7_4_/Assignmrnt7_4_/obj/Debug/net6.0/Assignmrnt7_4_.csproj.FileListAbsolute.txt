@@ -1,0 +1,5 @@
+C:\Users\RAJA\source\repos\Assignmrnt7_4_\Assignmrnt7_4_\obj\Debug\net6.0\Assignmrnt7_4_.csproj.AssemblyReference.cache
+C:\Users\RAJA\source\repos\Assignmrnt7_4_\Assignmrnt7_4_\obj\Debug\net6.0\Assignmrnt7_4_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAJA\source\repos\Assignmrnt7_4_\Assignmrnt7_4_\obj\Debug\net6.0\Assignmrnt7_4_.AssemblyInfoInputs.cache
+C:\Users\RAJA\source\repos\Assignmrnt7_4_\Assignmrnt7_4_\obj\Debug\net6.0\Assignmrnt7_4_.AssemblyInfo.cs
+C:\Users\RAJA\source\repos\Assignmrnt7_4_\Assignmrnt7_4_\obj\Debug\net6.0\Assignmrnt7_4_.csproj.CoreCompileInputs.cache

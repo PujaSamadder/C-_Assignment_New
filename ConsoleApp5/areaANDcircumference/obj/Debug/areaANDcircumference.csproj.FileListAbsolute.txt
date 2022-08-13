@@ -1,0 +1,8 @@
+C:\Users\RAJA\source\repos\areaANDcircumference\areaANDcircumference\bin\Debug\areaANDcircumference.exe.config
+C:\Users\RAJA\source\repos\areaANDcircumference\areaANDcircumference\bin\Debug\areaANDcircumference.exe
+C:\Users\RAJA\source\repos\areaANDcircumference\areaANDcircumference\bin\Debug\areaANDcircumference.pdb
+C:\Users\RAJA\source\repos\areaANDcircumference\areaANDcircumference\obj\Debug\areaANDcircumference.csproj.AssemblyReference.cache
+C:\Users\RAJA\source\repos\areaANDcircumference\areaANDcircumference\obj\Debug\areaANDcircumference.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAJA\source\repos\areaANDcircumference\areaANDcircumference\obj\Debug\areaANDcircumference.csproj.CoreCompileInputs.cache
+C:\Users\RAJA\source\repos\areaANDcircumference\areaANDcircumference\obj\Debug\areaANDcircumference.exe
+C:\Users\RAJA\source\repos\areaANDcircumference\areaANDcircumference\obj\Debug\areaANDcircumference.pdb

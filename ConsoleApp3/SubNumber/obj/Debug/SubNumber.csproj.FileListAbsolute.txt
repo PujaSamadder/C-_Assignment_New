@@ -1,0 +1,8 @@
+C:\Users\RAJA\source\repos\SubNumber\SubNumber\obj\Debug\SubNumber.csproj.AssemblyReference.cache
+C:\Users\RAJA\source\repos\SubNumber\SubNumber\obj\Debug\SubNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAJA\source\repos\SubNumber\SubNumber\obj\Debug\SubNumber.csproj.CoreCompileInputs.cache
+C:\Users\RAJA\source\repos\SubNumber\SubNumber\bin\Debug\SubNumber.exe.config
+C:\Users\RAJA\source\repos\SubNumber\SubNumber\bin\Debug\SubNumber.exe
+C:\Users\RAJA\source\repos\SubNumber\SubNumber\bin\Debug\SubNumber.pdb
+C:\Users\RAJA\source\repos\SubNumber\SubNumber\obj\Debug\SubNumber.exe
+C:\Users\RAJA\source\repos\SubNumber\SubNumber\obj\Debug\SubNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\RAJA\source\repos\Assignment8\Assignment8_\Assignment8_\obj\Debug\net6.0\Assignment8_.csproj.AssemblyReference.cache
+C:\Users\RAJA\source\repos\Assignment8\Assignment8_\Assignment8_\obj\Debug\net6.0\Assignment8_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAJA\source\repos\Assignment8\Assignment8_\Assignment8_\obj\Debug\net6.0\Assignment8_.AssemblyInfoInputs.cache
+C:\Users\RAJA\source\repos\Assignment8\Assignment8_\Assignment8_\obj\Debug\net6.0\Assignment8_.AssemblyInfo.cs
+C:\Users\RAJA\source\repos\Assignment8\Assignment8_\Assignment8_\obj\Debug\net6.0\Assignment8_.csproj.CoreCompileInputs.cache
